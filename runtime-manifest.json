@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "release": "runtime-v1",
+  "packages": {
+    "cpu": {
+      "id": "vieneu-cpu-v1",
+      "bytes": 159949672,
+      "unpacked_bytes": 477233631,
+      "sha256": "6867048bb0e3f8ceb2eea10a719c5a72354e3ebf53e866db6b4370a7752304c3",
+      "parts": [
+        {
+          "name": "vieneu-cpu-win-x64-v1.zip.001",
+          "bytes": 159949672,
+          "sha256": "6867048bb0e3f8ceb2eea10a719c5a72354e3ebf53e866db6b4370a7752304c3",
+          "url": "https://github.com/XHieu2004/tanori-releases/releases/download/runtime-v1/vieneu-cpu-win-x64-v1.zip.001"
+        }
+      ],
+      "python": "python.exe"
+    },
+    "cuda": {
+      "id": "vieneu-cuda-v1",
+      "bytes": 3114039698,
+      "unpacked_bytes": 5142186606,
+      "sha256": "eecdaacc1f5dad940c43982fbd086827dc72f01e430897c8582a367ac881d7d1",
+      "parts": [
+        {
+          "name": "vieneu-cuda-win-x64-v1.zip.001",
+          "bytes": 1073741824,
+          "sha256": "af481672fde881755bac434333eac64bbefef2631b336c05ee79b2d63773a0f2",
+          "url": "https://github.com/XHieu2004/tanori-releases/releases/download/runtime-v1/vieneu-cuda-win-x64-v1.zip.001"
+        },
+        {
+          "name": "vieneu-cuda-win-x64-v1.zip.002",
+          "bytes": 1073741824,
+          "sha256": "2480b031fb8d1b4fc00f9c0bc1129f694569a0f151b256a93725337dfc7445f7",
+          "url": "https://github.com/XHieu2004/tanori-releases/releases/download/runtime-v1/vieneu-cuda-win-x64-v1.zip.002"
+        },
+        {
+          "name": "vieneu-cuda-win-x64-v1.zip.003",
+          "bytes": 966556050,
+          "sha256": "a5f81c6c1eaa026d4f59665f324d8caeb260f5d6b0fae4b9b9655162879299aa",
+          "url": "https://github.com/XHieu2004/tanori-releases/releases/download/runtime-v1/vieneu-cuda-win-x64-v1.zip.003"
+        }
+      ],
+      "python": "python.exe"
+    }
+  }
+}
